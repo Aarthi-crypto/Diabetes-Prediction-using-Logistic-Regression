@@ -11,11 +11,10 @@ This project applies Logistic Regression on the PIMA Indian Diabetes dataset to 
 
 ## Prerequisites
 Before running this project, make sure you have:  
-
-- **Python**: Version 3.8 or higher  
-- **Libraries**:  
-  - pandas  
-  - numpy  
-  - scikit-learn  
-  - matplotlib  
-  - seaborn
+1. **Python**: Version 3.8 or higher  
+2. **Libraries**:  
+   - pandas  
+   - numpy  
+   - scikit-learn  
+   - matplotlib  
+   - seaborn
