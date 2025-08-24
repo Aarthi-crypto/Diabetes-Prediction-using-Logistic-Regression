@@ -5,6 +5,8 @@ Name: PIMA Indian Diabetes Dataset
 Source: Kaggle - Diabetes Dataset
 Rows: 768
 Target Variable: Outcome (0 → Non-diabetic, 1 → Diabetic)
+<img width="469" height="322" alt="Screenshot 2025-08-24 125749" src="https://github.com/user-attachments/assets/34fbae65-a832-479e-8899-5a556c175ec4" />
+
 ## Prerequisites
 Before running this project, make sure you have:
 1. Python 3.8+ installed
